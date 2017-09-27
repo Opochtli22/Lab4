@@ -97,6 +97,6 @@ public class Main {
         } while ((playerHp > 0) && (enemyHp >0));
 
         System.out.println("\nYou have conpleted your first battle, now you can learn the basics of the game.");
-        System.out.println("This is a change for the Github push 2");
+        System.out.println("Change for Github 6");
     }
 }
