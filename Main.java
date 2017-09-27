@@ -94,9 +94,8 @@ public class Main {
                 System.out.println("Player EXP earned: " + playerExp);
             }
 
-
-
         } while ((playerHp > 0) && (enemyHp >0));
 
+        System.out.println("\nYou have conpleted your first battle, now you can learn the basics of the game.");
     }
 }
